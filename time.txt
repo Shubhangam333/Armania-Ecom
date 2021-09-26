@@ -1,0 +1,35 @@
+https://coolors.co/3d0066-5c0099-c86bfa-fdc500-ffd500-ffee32-03071e
+
+https://coolors.co/b7094c-a01a58-892b64-723c70-5c4d7d-455e89-2e6f95-1780a1-0091ad
+
+mongodb user = shubhangam
+password=nextecom
+
+#5 
+
+
+admin
+admin@gmail.com
+
+https://github.com/animationbro/neumorphism-css-product-card/blob/master/Neumorphism_Products/index.html
+
+https://codepen.io/MichaelAlves/pen/gMLQXz
+
+module.exports = {
+  env: {
+    BASE_URL: "http://localhost:3000",
+    MONGODB_URL:
+      "mongodb+srv://shubhangam:nextecom@cluster0.te0vl.mongodb.net/nextecom?retryWrites=true&w=majority",
+    ACCESS_TOKEN_SECRET: "xmqe`_M2S$Y;^^GC4PnCGc,'hEj&8[r?]yeNR7ZW4^F.L,>-YF",
+    REFRESH_TOKEN_SECRET:
+      "zegU5]aS>HG?dbH2X+)FX*!te+e4(:{'wL:Tu6ZY3D38#E}f!_,!4+ML",
+    PAYPAL_CLIENT_ID:
+      "Aa5aJIp0z-u-baIkqJ0MvLFjdWHnQXoXukrog0dKkz_JVVgj2pfWG41bYLUjWvwYfeiHWQ3HEhxk6A3E",
+    CLOUD_UPDATE_PRESET: "next_store",
+    CLOUD_NAME: "walli",
+    CLOUD_API: "https://api.cloudinary.com/v1_1/walli/image/upload",
+  },
+};
+
+
+https://codepen.io/umarmughal10/pen/gOPymqW

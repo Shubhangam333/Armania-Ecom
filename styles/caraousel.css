@@ -1,0 +1,52 @@
+.container-fluid .banner {
+  background: linear-gradient(to bottom, #348aa7, #2ec4b6);
+  height: 500px;
+}
+.inner-banner {
+  border: 2px solid #fff;
+}
+/* .container-fluid .banner .image {
+  background: url(12.png) no-repeat;
+  background-size: contain;
+} */
+.container-fluid .banner .content {
+  color: #bce784;
+  line-height: 25px;
+}
+.container-fluid .banner .content h1 {
+  font-family: "Dancing Script", cursive;
+  font-size: 5em;
+  color: #bce784;
+  text-shadow: 2px 2px #009688;
+}
+
+.button .btn,
+.card .btn {
+  font-size: 16px;
+  font-weight: 600;
+  color: #177e89;
+  border: 1px solid #ff5722;
+  border-radius: 0;
+}
+.gallery {
+  background: #eee;
+}
+
+.gallery-cell {
+  width: 66%;
+  height: 350px !important;
+  margin-right: 10px;
+}
+.text-center {
+  text-align: center;
+}
+
+.carousel-item {
+  max-height: 452px;
+}
+
+.carousel-item img {
+  height: 452px;
+  width: 100%;
+  object-fit: fill;
+}
