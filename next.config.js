@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    BASE_URL: "http://localhost:3000",
+    BASE_URL: "https://armania-ecommerce.herokuapp.com",
     MONGODB_URL:
       "mongodb+srv://shubhangam:nextecom@cluster0.te0vl.mongodb.net/nextecom?retryWrites=true&w=majority",
     ACCESS_TOKEN_SECRET: "xmqe`_M2S$Y;^^GC4PnCGc,'hEj&8[r?]yeNR7ZW4^F.L,>-YF",
